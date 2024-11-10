@@ -1,31 +1,74 @@
-[![MasterHead]()](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Mohamed Ali Bourchada,</h1>
-<h3 align="center">passionate software developer with a focus on web development, open-source projects, and building user-friendly applications. I love learning new technologies and applying them to real-world projects. Welcome to my GitHub!</h3>
-<img align="right" alt="Coding" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-ali-bourchada&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-ali-bourchada" /> </p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mohamed-Ali-Bourchada.Mohamed-Ali-Bourchada" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-ali-bourchada" alt="mohamed-ali-bourchada" /></a> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamed+Ali!;" />
+</h1>
 
-- 🔭 I’m currently working on [Elibrary Application](https://github.com/Mohamed-Ali-Bourchada/Elibrary_project)
+<h3 align="center">A passionate software developer from Tunisia 🇨🇦</h3>
 
-- 🌱 I’m currently learning **SpringBoot, Angular, Laravel**
+<br/>
 
-- 💬 Ask me about **HTML, JS, CSS, PHP, SQL, laravel , expert solutions for PC hardware and software repairs and troubleshooting.**
+<div align="center">
+ 
+ 🔭 I’m currently working on **Elibrary Application**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-- 📫 How to reach me **ma.bourchada@gmail.com**
+💬 Ask me about **HTML, JS, CSS, PHP, SQL, laravel ,solutions for PC hardware and software repairs and troubleshooting.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamed-ali-bourchada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-ali-bourchada" height="30" width="40" /></a>
-<a href="https://fb.com/mohamed.bourchada.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed.bourchada.7" height="30" width="40" /></a>
-<a href="https://instagram.com/mohamed_bourchada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed_bourchada" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-ali-bourchada&show_icons=true&locale=en&layout=compact" alt="mohamed-ali-bourchada" /></p>
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:ma.bourchada@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/mohamed-ali-bourchada" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://Mohamed-Ali-Bourchada.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-ali-bourchada&show_icons=true&locale=en" alt="mohamed-ali-bourchada" /></p>
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=springboot,bootstrap,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-ali-bourchada&" alt="mohamed-ali-bourchada" /></p>
+<br/>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+<div align=center>
+  
+
+
+<p><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-ali-bourchada&" alt="mohamed-ali-bourchada" /></p>
+  
+ <p><img align="left" width="400"src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-ali-bourchada&show_icons=true&locale=en&layout=compact" alt="mohamed-ali-bourchada" /></p>
+
+<p>&nbsp;<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=mohamed-ali-bourchada&show_icons=true&locale=en" alt="mohamed-ali-bourchada" /></p>
+  <br/>
+
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
