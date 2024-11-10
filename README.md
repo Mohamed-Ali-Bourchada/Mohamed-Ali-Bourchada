@@ -1,45 +1,27 @@
-# Welcome to My GitHub Profile! 👋
+<h1 align="center">Hi 👋, I'm Mohamed Ali Bourchada,</h1>
+<h3 align="center">passionate software developer with a focus on web development, open-source projects, and building user-friendly applications. I love learning new technologies and applying them to real-world projects. Welcome to my GitHub!</h3>
 
-Hi there! I'm Mohamed Ali Bourchada, a passionate software developer with a focus on web development, open-source projects, and building user-friendly applications. I love learning new technologies and applying them to real-world projects. Welcome to my GitHub!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-ali-bourchada&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-ali-bourchada" /> </p>
 
-## 👨‍💻 About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-ali-bourchada" alt="mohamed-ali-bourchada" /></a> </p>
 
-- 🌱 Currently learning: [Laravel,SpringBoot,Angular,Flutter....]
-- 💬 Ask me about: Web development, GitHub, or my projects!
-- 🔭 I'm currently working on: [Elibrary App using SpringBoot and Angular]
-- 📫 How to reach me: [ma.bourchada@gmail.com]
+- 🔭 I’m currently working on [Elibrary Application](https://github.com/Mohamed-Ali-Bourchada/Elibrary_project)
 
-## 🔧 Technologies & Tools
+- 🌱 I’m currently learning **SpringBoot, Angular, Laravel**
 
-Here are the technologies and tools I use in my development work:
+- 💬 Ask me about **HTML, JS, CSS, PHP, SQL, laravel , expert solutions for PC hardware and software repairs and troubleshooting.**
 
-- **Languages**: JavaScript, java, HTML, CSS, SQL, PHP
-- **Frameworks & Libraries**: Angular, SpringBoot, Laravel, Flutter
-- **Databases**: MySQL, FireBase
-- **Tools & Platforms**: GitHub, Visual Studio Code, intelliJ, Xampp ...
+- 📫 How to reach me **ma.bourchada@gmail.com**
 
-## 📂 Featured Projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Here are some of the key projects I’ve worked on:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-### 1. [ZipBooks](https://github.com/Mohamed-Ali-Bourchada/EbookWebSite)
-A web platform that allows users to create accounts and access a list of downloadable PDF books. The project also includes an admin dashboard for managing books and user data.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-ali-bourchada&show_icons=true&locale=en&layout=compact" alt="mohamed-ali-bourchada" /></p>
 
-### 2. [Myhealth](https://github.com/Mohamed-Ali-Bourchada/MyHealth_App)
-MyHealth is a Flutter-based mobile application designed to help users manage their health by enabling doctor consultations and reservations
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-ali-bourchada&show_icons=true&locale=en" alt="mohamed-ali-bourchada" /></p>
 
-
-Feel free to check out more of my projects in my repositories!
-
-## 📈 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Ali-Bourchada&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-
-## 🚀 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-profile)
-- [Email](mailto:your-email@example.com)
-
-Thank you for visiting my GitHub profile! If you're interested in collaborating, feel free to reach out. Happy coding! 👨‍💻
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-ali-bourchada&" alt="mohamed-ali-bourchada" /></p>
