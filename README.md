@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ali Bourchada,</h1>
 <h3 align="center">passionate software developer with a focus on web development, open-source projects, and building user-friendly applications. I love learning new technologies and applying them to real-world projects. Welcome to my GitHub!</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-ali-bourchada&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-ali-bourchada" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-ali-bourchada" alt="mohamed-ali-bourchada" /></a> </p>
