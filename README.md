@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Elibrary Application**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **SpringBoot , Angular, Laravel**
 
 💬 Ask me about **HTML, JS, CSS, PHP, SQL, laravel ,solutions for PC hardware and software repairs and troubleshooting.**
 
