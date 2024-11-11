@@ -52,11 +52,10 @@
   
 
 
-<p><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-ali-bourchada&" alt="mohamed-ali-bourchada" /></p>
-  
- <p><img align="left" width="400"src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-ali-bourchada&show_icons=true&locale=en&layout=compact" alt="mohamed-ali-bourchada" /></p>
+<p><img  width ="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-ali-bourchada&" alt="mohamed-ali-bourchada" /></p>
+<p>&nbsp;<img  width ="50%" src="https://github-readme-stats.vercel.app/api?username=mohamed-ali-bourchada&show_icons=true&locale=en" alt="mohamed-ali-bourchada" /></p>
+ <p><img width ="50%"src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-ali-bourchada&show_icons=true&locale=en&layout=compact" alt="mohamed-ali-bourchada" /></p>
 
-<p>&nbsp;<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=mohamed-ali-bourchada&show_icons=true&locale=en" alt="mohamed-ali-bourchada" /></p>
   <br/>
 
 </div>
