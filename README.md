@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **SpringBoot , Angular, Laravel**
 
-💬 Ask me about **HTML, JS, CSS, PHP, SQL, laravel ,solutions for PC hardware and software repairs and troubleshooting.**
+💬 Ask me about **HTML, JS, CSS, PHP, SQL, SpringBoot, Angular, laravel ,solutions for PC hardware and software repairs and troubleshooting.**
 
 
 
