@@ -10,11 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on an **Elearning Application**
- 
- 🌱 I’m currently learning **SpringBoot , Angular, Laravel**
+ 🔭 I’m currently working on an **Marketplace Application**
 
-💬 Ask me about **HTML, JS, CSS, PHP, SQL, SpringBoot, Angular, laravel ,solutions for PC hardware and software repairs and troubleshooting.**
+💬 Ask me about **HTML, JS, CSS, PHP, SQL, SpringBoot, Angular, laravel , Docker, CI/CD, Github Actions ,solutions for PC hardware and software repairs and troubleshooting.**
 
 
 
